@@ -21,7 +21,7 @@ testimonials:
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
   - name: "Sr. May Verona, FHL"  
-    designation: "Web Designer"
+    designation: "Finance Officer"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
