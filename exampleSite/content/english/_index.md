@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "EVCAN 2024 Logo"
-    image: "/images/service-3.png"
+    image: "/images/service-2.png"
     content: "Reliving Caritas is the forefront of EVCAN for this year, by repurposing the Caritas Logo to add more detail and character into the design, Caritas Palo envisions a lively and fraternal gathering."
     bulletpoints:
       - "Detail 1"
@@ -40,7 +40,7 @@ features:
       link: ""
 
   - title: "What to **EXPECT** from EVCAN 2024?"
-    image: "/images/service-2.png"
+    image: "/images/service-3.png"
     content: "EVCAN 2024 will be different from previous EVCANs because in this year's event, there is more emphasis on collaboration and humanitarian fraternity. It is the vision of the Host Archdiocese that after EVCAN, Caritas offices in the Metropolitan will be strengthen in communal activities and sustainable development for Eastern Visayas."
     bulletpoints:
       - "Objective 1"
