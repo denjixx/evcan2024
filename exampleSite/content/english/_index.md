@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "WELCOME TO EVCAN 2024!"
+  title: "WELCOME TO EVCAN 2024! The Eastern Visayas Caritas Network Annual Gathering"
   content: "The Eastern Visayas Caritas Network 2024 will be graciously hosted by the Archdiocese of Palo and the Caritas Palo-Social Action Commission on November 2024."
   image: "/images/banner.png"
   button:
@@ -25,7 +25,6 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
-
 
   - title: "EVCAN 2024 Logo"
     image: "/images/service-3.png"
